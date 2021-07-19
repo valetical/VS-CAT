@@ -1,3 +1,5 @@
-# VS CAT
+# vs cat
 
-A Friday Night Funkin mod with odd humor and a cat.
+fnf mod with odd humor and a cat
+
+also thank u kadedev im bursting in tears because of u https://github.com/KadeDev/Kade-Engine
